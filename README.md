@@ -1,1 +1,1 @@
-# AI_Finance 1주차
+# CUAI 금융AI  1주차
